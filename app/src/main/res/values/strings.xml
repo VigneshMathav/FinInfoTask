@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fininfocom_task</string>
+    <string-array name="rules">
+        <item>Odd Numbers</item>
+        <item>Even Numbers</item>
+        <item>Prime Numbers</item>
+        <item>Fibonacci Numbers</item>
+    </string-array>
+</resources>
